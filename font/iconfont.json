@@ -1,0 +1,30 @@
+{
+  "id": "3733234",
+  "name": "导航页面",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "5667976",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    },
+    {
+      "icon_id": "6808513",
+      "name": "Bing",
+      "font_class": "Bing",
+      "unicode": "eddb",
+      "unicode_decimal": 60891
+    },
+    {
+      "icon_id": "14055556",
+      "name": "百度",
+      "font_class": "baidu",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    }
+  ]
+}
